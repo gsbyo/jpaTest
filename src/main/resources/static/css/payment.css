@@ -1,0 +1,70 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#wrap{
+  width: 100%;
+  display: flex;
+}
+.pay-box{
+  width: 30%;
+  
+}
+
+.pay-box p{
+  text-align: left;
+}
+
+table {
+    width: 100%;
+    overflow: scroll;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: fixed;
+
+  }
+
+tr{
+  text-align: center;
+}
+
+th{
+  border-bottom: 1px solid black;
+}
+
+td{
+  padding: 10px;
+  vertical-align: top;
+}
+
+.member-list:hover{
+     background-color: blue;
+     cursor: pointer;
+  }
+
+
+#search-member{
+  padding-left: 5px;
+  width: 100px;
+}
+
+#pay-button{
+  padding: 10px;
+  border-radius: 4px;
+  border: 0;
+  margin-top: 20px;
+  color: white;
+  background-color: black;
+}
+  
+
+.btn{
+  display: none;
+}
+
+
+
+
+

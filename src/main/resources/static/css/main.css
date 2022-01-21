@@ -1,0 +1,23 @@
+.container{
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+
+
+}
+
+.box{
+  width: 50%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}

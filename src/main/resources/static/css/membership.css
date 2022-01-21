@@ -1,0 +1,32 @@
+.container{
+    width: 600px;
+    
+}
+
+.wrap{
+    border: 1px solid black;
+    width: 50%;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+.index-box{
+    padding: 10px;
+}
+
+table{
+    width: 100%;
+    table-layout: fixed;
+}
+
+.ms-list{
+    text-align: center;
+}
+
+#sign{
+    
+}

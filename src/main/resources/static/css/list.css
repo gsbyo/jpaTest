@@ -1,0 +1,61 @@
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+
+table {
+  width: 100%;
+  overflow: scroll;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  table-layout: fixed;
+
+   
+}
+
+#button-wrap{
+  padding: 10px;
+}
+
+th{
+ 
+}
+
+
+
+.input-box{
+  padding: 10px;
+}
+
+  td{
+    padding: 10px;
+    text-align: center;
+  }
+
+  .member-list:hover{
+     background-color: blue;
+     cursor: pointer;
+  }
+
+  .edit-active{
+    background-color: blue;
+  }
+
+  #sign{
+    margin-top: 10px;
+  }
+
+  #cancel-btn,#fin-btn{
+    display: none;
+  }
+
+  .input-name, .input-gender, .input-age, .input-phone{
+    width: 100px;
+    display: none;
+  }
+
+
+
+
